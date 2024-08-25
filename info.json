@@ -1,12 +1,12 @@
 {
   "name": "map-tag-teleport",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "title": "Map tag teleport",
   "author": "Subject31415",
   "factorio_version": "1.1",
   "dependencies": [
     "base >= 1.1",
-    "map-tag-core"
+    "map-tag-core>=0.1.2"
   ],
   "description": "Use the Map Tag tool to teleport either to an existing tags, or any location on the map. Map tag GPS."
 }

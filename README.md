@@ -14,6 +14,14 @@ Teleport to your favourite destination in just a few clicks:
 
 ---
 
+# Known issues
+
+-   Overrules navigation functionality of 'Map tag GPS'
+
+# Roadmap
+
+-   Update compatibility with Map tag GPS
+
 # Collaborations welcome
 
 -   Start a discussion with your ideas
