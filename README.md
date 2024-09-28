@@ -16,11 +16,11 @@ Teleport to your favourite destination in just a few clicks:
 
 # Known issues
 
--   Overrules navigation functionality of 'Map tag GPS'
+-   None, feel free to open a bug report
 
 # Roadmap
 
--   Update compatibility with Map tag GPS
+-   Nothing planned
 
 # Collaborations welcome
 
